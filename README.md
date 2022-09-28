@@ -1,1 +1,1 @@
-# Discuss-hyena-stego
+# hyena-steganography Writeup
